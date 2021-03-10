@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /tell-me-what-you-are-looking-for
